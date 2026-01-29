@@ -49,8 +49,8 @@ The model trains efficiently and quickly converges to a high validation accuracy
 ## 🧪 Results
 | Metric | Value |
 |--------|-------|
-| Training Accuracy | ~91% |
-| Validation Accuracy | **~98.5%** |
+| Training Accuracy | ~93.39% |
+| Validation Accuracy | **~99.12%** |
 
 The results show the model generalizes well and can reliably predict traffic signs on unseen images.  
 
