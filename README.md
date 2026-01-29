@@ -69,7 +69,7 @@ The results show the model generalizes well and can reliably predict traffic sig
 - Matplotlib, Seaborn  
 - Scikit-learn  
 - Kaggle API
-<img width="626" height="498"  src="exampls/output.png" />
+<img width="900" height="500"  src="exampls/output.png" >
 
 
 
