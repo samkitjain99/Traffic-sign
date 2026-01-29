@@ -37,9 +37,10 @@ The CNN model is built with **TensorFlow/Keras** and includes:
 ---
 
 ## 📈 Training Details
-- **Epochs:** 10  
-- **Batch Size:** 128  
-- **Training/Validation Split:** 80/20  
+- **Epochs:** Up to 10 (with Early Stopping)
+- **Batch Size:** 128
+- **Training/Validation Split:** 80/20
+- **Early Stopping:** Monitors validation loss with a patience of 3 epochs and restores the best model weights
 
 The model trains efficiently and quickly converges to a high validation accuracy.  
 
